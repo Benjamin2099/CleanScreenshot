@@ -1,0 +1,4 @@
+Pillow==9.4.0
+pyautogui==0.9.53
+python-docx==0.8.11
+ttkthemes==3.1.0
